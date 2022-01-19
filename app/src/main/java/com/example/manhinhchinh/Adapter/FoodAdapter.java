@@ -190,7 +190,7 @@ public class FoodAdapter extends  RecyclerView.Adapter<FoodAdapter.UserViewHolde
 
         public UserViewHolder(@NonNull View itemView) {
             super(itemView);
-            layout_item_food = itemView.findViewById(R.id.layout_item_food);
+//            layout_item_food = itemView.findViewById(R.id.layout_item_food);
             layout_food_and_calo = itemView.findViewById(R.id.layout_food_and_calo);
             imgFood = itemView.findViewById(R.id.img_food);
             tvName = itemView.findViewById(R.id.tv_name);
