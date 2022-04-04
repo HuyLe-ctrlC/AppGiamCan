@@ -62,7 +62,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="64dp"
         android:background="@drawable/round_bg"
-        android:text="Giảm cân theo tập thể dục và ăn uốn"
+        android:text="Giảm cân theo tập thể dục và ăn uống"
         app:layout_constraintEnd_toStartOf="@id/btn_6Thang"
         android:textSize="16sp"
         android:textStyle="bold"
@@ -76,7 +76,7 @@
         android:layout_marginTop="64dp"
         android:layout_marginEnd="36dp"
         android:background="@drawable/round_bg"
-        android:text="Giảm cân theo ăn uốn"
+        android:text="Giảm cân theo ăn uống"
         android:textSize="16sp"
         android:textStyle="bold"
 
